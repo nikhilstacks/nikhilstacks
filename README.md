@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilstacks" alt="nikhilstacks" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bavwve" target="blank"><img src="https://img.shields.io/twitter/follow/bavwve?logo=twitter&style=for-the-badge" alt="bavwve" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Portfolio website with ReactJS.**
 
 - 🌱 I’m currently learning **JAVA.**
@@ -30,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilstacks&show_icons=true&locale=en&layout=compact" alt="nikhilstacks" /></p>
 
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilstacks&show_icons=true&locale=en" alt="nikhilstacks" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilstacks&" alt="nikhilstacks" /></p>
