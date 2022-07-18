@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://webcodex.in/imgs/web-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilstacks&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilstacks" /> </p>
-
 
 - 🔭 I’m currently working on **Personal Portfolio website with ReactJS.**
 
