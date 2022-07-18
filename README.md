@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kumar.</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://webcodex.in/imgs/web-development.gif">
+<img align="right" alt="coding" width="250px" src="https://webcodex.in/imgs/web-development.gif">
 
 
 - 🔭 I’m currently working on **Personal Portfolio website with ReactJS.**
