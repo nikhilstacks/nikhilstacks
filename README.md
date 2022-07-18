@@ -43,9 +43,10 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-
+<center>
 <div style="display:flex;">
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilstacks&show_icons=true&layout=compact&theme=minimal" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=nikhilstacks&count_private=true&show_icons=true&theme=minimal" alt="GitHub Status"/>
 </div>
+</center>
 
