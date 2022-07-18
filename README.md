@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **JAVA.**
 
-- 💬 Ask me about **ReactJS, DataStructure, Javascript.**
-
 - 📫 How to reach me **nikhilstacks@gmail.com**
 
 
