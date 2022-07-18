@@ -44,7 +44,7 @@
 </p>
 
 
-<div style="display:flex; position: center;">
+<div style="display:flex; justify-content: center;">
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilstacks&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=nikhilstacks&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 </div>
