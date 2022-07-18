@@ -1,6 +1,6 @@
 [![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)](https://www.linkedin.com/in/nikhilstacks/)
 
-<h1 align="center">Hi 👋, I'm Nikhil Kumar.</h1>
+<h1 align="left">Hi 👋, I'm Nikhil Kumar.</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="250px" src="https://webcodex.in/imgs/web-development.gif">
 
@@ -35,7 +35,7 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
+<p align="left">
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilstacks&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=nikhilstacks&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
 </p>
