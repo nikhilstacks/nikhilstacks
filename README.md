@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="250px" src="https://webcodex.in/imgs/web-development.gif">
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilstacks.visitor-badge)
 - 🔭 I’m currently working on **Personal Portfolio website with ReactJS.**
 
 - 🌱 I’m currently learning **JAVA.**
