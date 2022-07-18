@@ -36,10 +36,8 @@
 </p>
 
 <p align="center">
-<div style="display:flex;">
 <img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilstacks&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 <img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=nikhilstacks&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-</div>
 </p>
 
 <h3 align="left">Connect with me:</h3>
