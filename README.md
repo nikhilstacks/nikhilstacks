@@ -1,4 +1,4 @@
-[![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif](https://www.linkedin.com/in/nikhilstacks/)
+[![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)](https://www.linkedin.com/in/nikhilstacks/)
 
 <h1 align="center">Hi 👋, I'm Nikhil Kumar.</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
