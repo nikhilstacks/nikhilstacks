@@ -4,7 +4,7 @@
 <h3 align="left">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="150px" src="https://webcodex.in/imgs/web-development.gif">
 
-![Visitor Count](https://profile-counter.glitch.me/nikhilstacks/count.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilstacks.visitor-badge)
 
 - 🔭 I’m currently working on **MERN STACK PROJECT.**
 
