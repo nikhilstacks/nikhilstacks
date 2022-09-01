@@ -6,9 +6,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilstacks.visitor-badge)
 
-- 🔭 I’m currently working on **MERN STACK PROJECT.**
+- 🔭 I’m currently working on **PORTFOLIO PROJECT.**
 
-- 🌱 I’m currently learning **JAVA.**
+- 🌱 I’m currently learning **C++.**
 
 - 📫 How to reach me **nikhilstacks@gmail.com**
 
