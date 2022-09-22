@@ -44,5 +44,7 @@
 <a href="https://linkedin.com/in/nikhilstacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilstacks" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhilstacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilstacks" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18010948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18010948" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nikhilstacks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilstacks" height="30" width="40" /></a>
+</p>
 </p>
 
