@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Nikhil Kumar.</h1>
 <h3 align="left">A passionate Developer from India</h3>
-<img align="right" alt="coding" width="30%" src="https://webcodex.in/imgs/web-development.gif">
+<img align="right" alt="coding" width="7%" src="https://webcodex.in/imgs/web-development.gif">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilstacks.visitor-badge)
 
