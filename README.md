@@ -4,9 +4,8 @@
 <h3 align="left">A passionate Developer from India</h3>
 <img align="right" alt="coding" width="12%" src="https://webcodex.in/imgs/web-development.gif">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nikhilstacks.visitor-badge)
 
-- 🔭 I’m currently working on **PORTFOLIO PROJECT.**
+- 🔭 I’m currently working on **TypeScript**
 
 - 🌱 I’m currently learning **C++.**
 
