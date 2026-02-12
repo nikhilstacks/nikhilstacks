@@ -5,9 +5,9 @@
 <img align="right" alt="coding" width="12%" src="https://webcodex.in/imgs/web-development.gif">
 
 
-- 🔭 I’m currently working on **TypeScript**
+- 🔭 I’m currently working on **AI Agent**
 
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **nikhilstacks@gmail.com**
 
@@ -33,10 +33,7 @@
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </p>
 
-<p align="left">
-<img width="470px" height="180px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilstacks&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
-<img width="470px" height="180px" src="https://github-readme-stats.vercel.app/api?username=nikhilstacks&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
