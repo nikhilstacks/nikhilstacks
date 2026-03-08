@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="12%" src="https://webcodex.in/imgs/web-development.gif">
 
 
-- 🔭 I’m currently working on **AI Agent**
+- 🔭 I’m currently working on **Agentic AI**
 
 - 🌱 I’m currently learning **Python**
 
